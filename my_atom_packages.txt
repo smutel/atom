@@ -1,0 +1,7 @@
+language-docker
+language-ini
+language-jenkinsfile
+language-powershell
+language-terraform
+markdown-writer
+platformio-ide-terminal
